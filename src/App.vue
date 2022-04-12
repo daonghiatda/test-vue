@@ -1,6 +1,14 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
+<<<<<<< HEAD
   <HelloWorld msg="Welcome to Your Vue.js App - test change"/>
+=======
+<<<<<<< HEAD
+  <HelloWorld msg="Welcome to Your Vue.js App - Change message for test branch 2"/>
+=======
+  <HelloWorld msg="Welcome to Your Vue.js App - test change 01"/>
+>>>>>>> feature/nghia.dao/#01_test_rule
+>>>>>>> develop
 </template>
 
 <script>
